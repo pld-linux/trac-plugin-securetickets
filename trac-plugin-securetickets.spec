@@ -4,10 +4,10 @@ Summary:	SecureTickets Plugin for Trac
 Name:		trac-plugin-%{plugin}
 Version:	0.1.4
 Release:	0.1
-License:	BSD-like / GPL / ...
+License:	BSD
 Group:		Applications/WWW
 Source0:	%{plugin}plugin.zip
-# Source0-md5:	9f706e733d205d4467ce6534772cb505
+# Source0-md5:	23581fd9292f1101b85c5dcbccb810cb
 URL:		http://trac-hacks.org/wiki/SecureTicketsPlugin
 BuildRequires:	python-devel
 Requires:	trac >= %{trac_ver}
